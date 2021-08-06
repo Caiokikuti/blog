@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Caio Kikuti</title>
+    <link>https://caiokikuti.github.io/caiokikuti.dev.github.io/tags/</link>
+    <description>Recent content in Tags on Caio Kikuti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Apr 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://caiokikuti.github.io/caiokikuti.dev.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>API</title>
+      <link>https://caiokikuti.github.io/caiokikuti.dev.github.io/tags/api/</link>
+      <pubDate>Thu, 08 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://caiokikuti.github.io/caiokikuti.dev.github.io/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JS</title>
+      <link>https://caiokikuti.github.io/caiokikuti.dev.github.io/tags/js/</link>
+      <pubDate>Thu, 08 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://caiokikuti.github.io/caiokikuti.dev.github.io/tags/js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REST</title>
+      <link>https://caiokikuti.github.io/caiokikuti.dev.github.io/tags/rest/</link>
+      <pubDate>Thu, 08 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://caiokikuti.github.io/caiokikuti.dev.github.io/tags/rest/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TS</title>
+      <link>https://caiokikuti.github.io/caiokikuti.dev.github.io/tags/ts/</link>
+      <pubDate>Thu, 08 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://caiokikuti.github.io/caiokikuti.dev.github.io/tags/ts/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

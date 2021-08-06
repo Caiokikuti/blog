@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Caio Kikuti</title>
+    <link>https://caiokikuti.github.io/caiokikuti.dev.github.io/post/</link>
+    <description>Recent content in Projects on Caio Kikuti</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://caiokikuti.github.io/caiokikuti.dev.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Potential Crud</title>
+      <link>https://caiokikuti.github.io/caiokikuti.dev.github.io/post/chapter-1/</link>
+      <pubDate>Thu, 08 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://caiokikuti.github.io/caiokikuti.dev.github.io/post/chapter-1/</guid>
+      <description>API POTENTIAL CRUD REST - Feathers js Descrição Tópicos  Descrição Features Pré-requisitos Executar Endpoints Front-end Tecnologias utilizadas Testes Repository Autor  Features  Autenticação de usuário usando jwt Listagem de todos os desenvolvedores Listagem de desenvolvedor por ID Listagem de desenvolvedor pelos atributos nome, sexo, idade, data de nascimento e hobby Busca de de desenvolvedor pelos atributos nome, sexo, idade, data de nascimento e hobby Cadastro de desenvolvedor Exclusão de desenvolvedor Edição de dado do desenvolvedor  Pré-requisitos Executar docker-compose up -d npm install -g db-migrate db-migrate up docker-compose down Endpoints { &amp;#34;email&amp;#34;: &amp;#34;admin@admin.</description>
+    </item>
+    
+  </channel>
+</rss>
